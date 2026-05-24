@@ -3,4 +3,4 @@
 ## App Screenshot
 
 
-<img src="/assets/screenshot.png"/>
+<img src="assets/screenshot.png"/>
